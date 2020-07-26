@@ -1,3 +1,9 @@
+/*Problem Statement
+Given an array of integers, sort the array and display the result
+Constraints -
+0<a[i]<=100
+*/
+
 #include <stdio.h>
 #include <malloc.h>
 int main(){
